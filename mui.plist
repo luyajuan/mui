@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://corner.com.cn:8080/com.corner.zh_0419092323.ipa</string>
+					<string>http://corner.com.cn:8080/com.corner.zh_0419141542.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>com.corner.zh_0419092323</string>
+				<string>com.corner.zh_0419141542</string>
 			</dict>
 		</dict>
 	</array>
